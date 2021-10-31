@@ -21,7 +21,7 @@
 	"artist": "Imagine Dragons",
 	"title": "On Top of the World",
 	"year": "2012",
-	"genre": ["Pop Rock","Rock"]
+	"genre": ["Pop Rock","Electropop"]
 },
 {
 	"artist": "Taylor Swift",
@@ -45,18 +45,18 @@
 	"artist": "Kansas",
 	"title": "Dust in the Wind",
 	"year": "1978",
-	"genre": ["Soft Rock","Indie Rock"]
+	"genre": ["Soft Rock","Progressive Rock"]
 },
 {
 	"artist": "Foster The People",
 	"title": "SHC",
 	"year": "2017",
-	"genre": ["Indie Pop","Indie Rock"]
+	"genre": ["Indie Pop","Neo-psychedelia"]
 },
 {
 	"artist": "Kraftklub",
 	"title": "Eure Madchen",
 	"year": "2012",
-	"genre": ["Indie Rock","Indie Rock"]
+	"genre": ["Indie Rock","Rap Rock"]
 }
 	]
