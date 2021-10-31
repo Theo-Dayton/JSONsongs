@@ -16,5 +16,47 @@
 	"title": "Renault Fuego",
 	"year": "2014",
 	"genre": ["Argentine Rock","Indie Rock"]
+},
+{
+	"artist": "Imagine Dragons",
+	"title": "On Top of the World",
+	"year": "2012",
+	"genre": ["Pop Rock","Rock"]
+},
+{
+	"artist": "Taylor Swift",
+	"title": "Cornelia Street",
+	"year": "2019",
+	"genre": ["Electropop","Synth Pop"]
+},
+{
+	"artist": "Taylor Swift",
+	"title": "Out of the Woods",
+	"year": "2014",
+	"genre": ["Electropop","Synth Pop"]
+},
+{
+	"artist": "Taylor Swift",
+	"title": "Superman",
+	"year": "2010",
+	"genre": ["Pop Rock","Country Pop"]
+},
+{
+	"artist": "Kansas",
+	"title": "Dust in the Wind",
+	"year": "1978",
+	"genre": ["Soft Rock","Indie Rock"]
+},
+{
+	"artist": "Foster The People",
+	"title": "SHC",
+	"year": "2017",
+	"genre": ["Indie Pop","Indie Rock"]
+},
+{
+	"artist": "Kraftklub",
+	"title": "Eure Madchen",
+	"year": "2012",
+	"genre": ["Indie Rock","Indie Rock"]
 }
 	]
