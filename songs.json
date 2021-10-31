@@ -1,44 +1,20 @@
 [
 	{
-	"name": "Fido1",
-	"type": "cat",
-	"breed": "Maine Coon",
-	"age": 4,
-	"gender": "female",
-	"procedures": ["checkup","rabies","spayed"],
-	"adopting_family": {
-		"name": "smith",
-		"town": "Cambridge",
-		"children" : 1,
-		"other_pets": false
-	}
+	"artist": "Las Ligas Menores",
+	"title": "Europa",
+	"year": "2014",
+	"genre": ["Argentine Rock","Indie Rock"]
 },
 {
-	"name": "Fido2",
-	"type": "dog",
-	"breed": "Maine Coon",
-	"age": 5,
-	"gender": "female",
-	"procedures": ["checkup","rabies","spayed"],
-	"adopting_family": {
-		"name": "smith",
-		"town": "Cambridge",
-		"children" : 1,
-		"other_pets": false
-	}
+	"artist": "Las Ligas Menores",
+	"title": "El Baile de Elvis",
+	"year": "2014",
+	"genre": ["Argentine Rock","Indie Rock"]
 },
 {
-	"name": "Fido3",
-	"type": "cat",
-	"breed": "Maine Coon",
-	"age": 6,
-	"gender": "female",
-	"procedures": ["checkup","rabies","spayed"],
-	"adopting_family": {
-		"name": "smith",
-		"town": "Cambridge",
-		"children" : 1,
-		"other_pets": false
-	}
+	"artist": "Las Ligas Menores",
+	"title": "Renault Fuego",
+	"year": "2014",
+	"genre": ["Argentine Rock","Indie Rock"]
 }
 	]
